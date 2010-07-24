@@ -1,0 +1,9 @@
+
+Thanks to 
+ - Richard Jones for his dumper module, 
+ - Jane Street for the backtrace module and lib-sexp
+ - Martin Jambon, Mika Illouz and Gert Stolpmann for lib-json
+ - Brian Hurt and Nicolas Cannasse for their dynArray module,
+ - Christophe Troestler for his ANSITerminal module,
+ - Sebastien ferre for his suffix tree module
+
